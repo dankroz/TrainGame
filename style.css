@@ -1,0 +1,12 @@
+body {
+    background-image: url(train-background.jpg);
+}
+
+#top-container {
+    opacity: .8;
+}
+
+#header {
+    font-weight: bold;
+    font-size: 20px;
+}
